@@ -8,3 +8,18 @@ In the age of artificial intelligence, the morality of actions can vary wildly d
 To do so, I think we need a new vocabulary of intelligence. The tech industry decoupled intelligence and consciousness; our language needs to catch up. Therefore, I propose we start being mindful of the consciousness of other agents. I ask journalists, movie writers, and average citizens to start following these guidelines when talking about robots. I ask computer scientists and tech companies to make social AIs use the appropriate language to talk about their own “thoughts,” to emphasize that they are intelligent, but not conscious. Most fictional "robot-buddy" AIs - C3PO, R2D2, and BB-8 – are probably conscious. Real AIs – your Roomba, your self-driving car, Siri and Alexa – are probably not conscious. (Yet.)
 
 As a general guideline, if you use the language of sentient beings to describe an AI, be sure to include it in quotes to acknowledge that you understand that your AI probably isn't conscious. E.g. Siri "likes" to joke. E.g. My Roomba "loves" to slurp up dust bunnies.
+
+| Non-conscious  | Both   | Conscious only  |
+|:--- |:--- |:--- |
+| It, its  |  I, mine / they, their | He, his / she, hers  |
+| Sensor fuse, sensor data  | Experience  | Know, understand  |
+| Sample, optimize | Imagine, plan | Hope, dream |
+|  | Decide |  |
+| 60% confident | Instinct (unexplainable deep learning) | A hunch, a gut feeling |
+| Positive/negative Reward/Value/Advantage/Utility | Favor | Like, love, dislike |
+| Rationally avoid |  | Fear |
+| Risk-tolerant |  | Brave, daring |
+| Completion-oriented |  | Decisive |
+| Low Value for Social Acceptability |  | Rebellious, maverick |
+| Optimized for sampling, search, extrapolation |  | Creative, innovator |
+| Good transfer learning and pattern matching of features in disparate domains |  | Insightful |
